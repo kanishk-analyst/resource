@@ -1,0 +1,24 @@
+# Secrets and environment
+.eve
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Local DB and generated output
+*.db
+*.sqlite
+*.sqlite3
+monthly_resource_plot.html
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
